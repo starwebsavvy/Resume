@@ -1,0 +1,22 @@
+{
+	"education": [
+		{
+			"title": "Jun 2011 - Apr 2015",
+			"cardTitle": "Computer Science",
+			"cardSubtitle": "Technical University of Moldova",
+			"cardDetailedText": "Bachelor's Degree",
+			"icon": {
+				"src": "images/education/university.png"
+			}
+		},
+		{
+			"title": "Jun 2016 - Nov 2017",
+			"cardTitle": "Computer Science",
+			"cardSubtitle": "Alecu Russo State University of Bălți",
+			"cardDetailedText": "Master's Degree",
+			"icon": {
+				"src": "images/education/university.png"
+			}
+		}
+	]
+}

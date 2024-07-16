@@ -1,0 +1,26 @@
+{
+	"experiences": [
+		{
+			"title": "Frontend Developer",
+			"subtitle": "Inther Software Development ",
+			"workType": "Full-time",
+			"workDescription": [
+				"As a senior software engineer at Inther Software Development, I've designed scalable software systems, written efficient code in languages such as JavaScript and Python, and ensured rigorous testing and debugging to maintain reliability.",
+				"Collaborating closely with diverse teams, I've tackled technical challenges, optimized performance, and documented solutions to support ongoing development and ensure client satisfaction."
+			],
+			"dateText": "02/2018 – 12/2019"
+		},
+		{
+			"title": "Backend Developer",
+			"subtitle": "Finance Gaming",
+			"workType": "Remote",
+			"workDescription": [
+				"As a web developer at QSystems, I was responsible for designing, coding, and modifying websites, from layout to function according to client specifications.",
+				"My work involved creating visually appealing sites that feature user-friendly design and clear navigation.",
+				"I collaborated with back-end developers, designers, and other team members to implement new web features, optimize site performance, and ensure cross-browser compatibility and responsive design.",
+				"Additionally, I stayed updated with the latest web development trends and technologies to incorporate best practices and innovative solutions into my projects."
+			],
+			"dateText": "03/2020 – 10/2023"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+  "social": [
+    {
+      "network": "skype",
+      "href": "https://linkedin.com/"
+    },
+    {
+      "network": "github",
+      "href": "https://github.com/starwebsavvy"
+    },
+    {
+      "network": "email",
+      "href": "dev.frank.chen@gmail.com"
+    }
+  ]
+}
